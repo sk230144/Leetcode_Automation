@@ -1,0 +1,8 @@
+
+In Window+R
+
+python -m venv venv
+.\venv\Scripts\activate
+
+
+cd C:\Users\Admin\Downloads\edgedriver_win64\
